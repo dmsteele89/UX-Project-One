@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "74B7DB10-3B29-45C1-A7C4-2E049E85AC47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 188,
+    "x": 93,
+    "y": 257
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / input bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F20D9921-5186-4C51-B37E-370C4C31E08A",
+      "overrideName": "C4189B8A-738D-4F8F-88D7-A3B55D69E672_stringValue",
+      "value": "Username"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD1092C5-7CB8-4BFE-BFC8-F77AFA5D5B56",
+      "overrideName": "6C19D4D9-FA1F-485C-89DD-677683F25607_stringValue",
+      "value": "username"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "125D9591-5DC6-48F3-9790-8564D3F2305F",
+  "verticalSpacing": 0
+}

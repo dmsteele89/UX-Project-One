@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A7DAF266-F647-4013-87EE-8743DD26F91F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91FC80BC-1394-4BF4-A94E-109D33EE6D17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "180BAFF6-B595-45D4-AE34-6958C0346ADF",
+    "height": 50,
+    "width": 188,
+    "x": 93,
+    "y": 334
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2031941-9E87-45DD-9CA9-56FBF0490A97",
+      "overrideName": "508EB61C-570D-43F2-A95E-DD0238FD6DEA_stringValue",
+      "value": "Send Code"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ABF7204B-B08B-43A8-8960-57B3283B47BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F5C8ED16-F022-4E17-BB65-FAA913A67802",
+  "verticalSpacing": 0
+}

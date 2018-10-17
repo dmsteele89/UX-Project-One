@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB78A82F-DA6F-443E-A3BC-F20400B117E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1AE8956-7EB7-451D-A358-CC26ABB05AF6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E6AC8B9-9798-4B87-8EB0-A091D482F9B9",
+    "height": 194,
+    "width": 281,
+    "x": 47,
+    "y": 237
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / background_box",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E45D623A-44BE-49ED-A49D-A57F9F43F002",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DBFB2BAE-5391-4925-8E1A-16E284A5FDC0",
+  "verticalSpacing": 0
+}
